@@ -22,8 +22,8 @@
     color: #5077bd;
 }
 .gallery img{
-    width: 50%;
-    height: 60%;
+    width: 1500px;
+    height: 1000px;
     text-align: center;
 }
 
@@ -38,7 +38,7 @@ h1{
 }
 *{
     background-color: #000;
-    
+    box-sizing: border-box;
     text-align: center;
     color: #ffffff;
     font-family:  Helvetica, sans-serif;
